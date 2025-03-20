@@ -1,6 +1,6 @@
 package Daily_Task;
 
-public class Task_March12 {
+public class Task_March12_Math_Function {
     public static void main(String[] args) {
 
         int x = 10;
