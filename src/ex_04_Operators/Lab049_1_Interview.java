@@ -1,6 +1,6 @@
 package ex_04_Operators;
 
-public class Lab048_Interview {
+public class Lab049_1_Interview {
     public static void main(String[] args) {
         int a = 10;
         boolean b = (10 == 11);
