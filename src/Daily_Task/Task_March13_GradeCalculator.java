@@ -2,14 +2,6 @@ package Daily_Task;
 
 public class Task_March13_GradeCalculator {
 
-//    public static void main(String[] args) {
-//        Scanner obj = new Scanner(System.in);       //add scanner object to take user input
-//
-//        System.out.println("Enter your Score: ");
-//
-//    }
-
-
     public static void main(String[] args) {
 
         String score = args[0];
